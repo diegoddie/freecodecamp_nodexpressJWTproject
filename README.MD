@@ -2,7 +2,7 @@
 
 This is a simple project built with Node.js and Express.js to demonstrate JWT (JSON Web Token) authentication.
 
-!(./img.png)
+![](img.png)
 
 ## Features
 - User registration: Allows users to create an account by providing a unique username and password.
